@@ -10,7 +10,8 @@ A web app for reading Telegram channels and groups in your browser: no Telegram 
 - **Anonymous access, no login** - you never sign in to Telegram, so nobody can tell that you read it
 - **Works even if you are banned** - being banned in a channel or group is irrelevant, because no account is involved
 
-**Live Demo:** [DEMO](https://insolador.codefloe.page/telegram-web-for-groups)
+**Live Demo:** [Telegram ban bypass
+](https://insolador.codefloe.page/telegram-web-for-groups)
 
 ## Installation
 
